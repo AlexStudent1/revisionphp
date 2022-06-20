@@ -63,7 +63,7 @@ $_SESSION['entityId']=$entity;
 $_SESSION['autorizador']=$token;
 $_SESSION['userId']="8a8294185a65bf5e015a6c8b2f690d8b";
 $_SESSION['password']="RkjpyNNE8s";
-
+//prueba sonar
 
 
 
